@@ -1,4 +1,4 @@
-# Partial and Full telework as Distinct Travel Behaviors: Evidence from Daily Trip-Making in the Twin Cities
+#  How Daily Telework Intensity Reshapes Weekday Trip-Making: Evidence from the Twin Cities
 
 Open-source analysis code for a paper on how telework intensity is associated with daily travel outcomes in the Minneapolis–St. Paul region.
 
