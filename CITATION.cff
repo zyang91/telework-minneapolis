@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Code and materials for: How Daily Telework Intensity Reshapes Weekday Trip-Making: Evidence from the Twin Cities"
+message: "If you use this code, please cite it as below."
+type: software
+authors:
+  - family-names: Yang
+    given-names: Zhanchao
+    orcid: "https://orcid.org/0000-0001-6356-8865"
+repository-code: "https://github.com/zyang91/telework-minneapolis"
+abstract: "This repository contains code and supporting materials for the analysis in the article 'How Daily Telework Intensity Reshapes Weekday Trip-Making: Evidence from the Twin Cities'."
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-05"
