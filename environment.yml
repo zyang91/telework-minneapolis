@@ -1,0 +1,30 @@
+name: telework-minneapolis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-tidyverse
+  - r-lubridate
+  - r-matchit
+  - r-cobalt
+  - r-mass
+  - r-sandwich
+  - r-lmtest
+  - r-gt
+  - r-gtsummary
+  - r-survey
+  - r-ordinal
+  - r-patchwork
+  - r-tidyr
+  - r-dplyr
+  - r-readr
+  - r-tibble
+  - r-stringr
+  - r-forcats
+  - r-ggplot2
+  - r-devtools
+
+# If some R packages are not available on conda-forge, install them from CRAN
+# after creating the environment, e.g.:
+# R -e "install.packages(c('cobalt','gtsummary'), repos='https://cloud.r-project.org')"

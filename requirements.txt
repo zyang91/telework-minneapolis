@@ -1,0 +1,26 @@
+# R package list (CRAN) for this project
+# Install in R with:
+# install.packages(c(...))
+
+tidyverse
+lubridate
+MatchIt
+cobalt
+MASS
+sandwich
+lmtest
+gt
+gtsummary
+survey
+ordinal
+patchwork
+tidyr
+dplyr
+tibble
+readr
+stringr
+forcats
+
+# Optional / development
+# devtools
+# remotes

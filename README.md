@@ -39,6 +39,11 @@ telework-minneapolis/
     ├── tab7-model-fit-sensitivity.R
     └── tab8-turning-point-comparison.R
 ```
+## Data availability
+
+The data used in this study are publicly available through the Metropolitan Council’s Travel Behavior Inventory (TBI). This repository does not redistribute the original data files. Users should obtain the data directly from the Metropolitan Council to ensure they are using the official and most current version.
+
+This repository provides the main analytical workflow, model specifications, and selected processing scripts used in the study. Some preprocessing steps have been simplified or reorganized for clarity.
 
 ## Data requirements
 
