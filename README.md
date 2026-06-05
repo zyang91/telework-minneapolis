@@ -1,6 +1,8 @@
-# telework-minneapolis
+# Partial and Full telework as Distinct Travel Behaviors: Evidence from Daily Trip-Making in the Twin Cities
 
-Open-source analysis code for a working paper on how telework intensity is associated with daily travel outcomes in the Minneapolis–St. Paul region.
+Open-source analysis code for a paper on how telework intensity is associated with daily travel outcomes in the Minneapolis–St. Paul region.
+
+*Note: Some preprocessing steps have been simplified or anonymized to protect data confidentiality. The repository provides the main analytical workflow used for the article.*
 
 ## Repository purpose
 
